@@ -18,6 +18,6 @@ hey, my name is João Pedro, I'm 15 years old, and I've been getting deeper and 
 
 * *** **
 ## 📊・GitHub Stats
-[![joota-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joota-js)
+[![joota-js GitHub stats](https://github-readme-stats.vercel.app/api?username=joota-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joota-js)
 <br />
 [![joota-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=joota-js&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joota-js)
