@@ -1,10 +1,10 @@
-### Hi there 👋
+### João Pedro
 
-## 📜・Sobre mim
+## 📜・About me
 hey, my name is João Pedro, I'm 15 years old, and I've been getting deeper and deeper into the world of programming, I want to work with that in the future. I'm currently focused on projects related to web development
 
 * *
-## 👨‍💻・Linguagens & Ferramentas
+## 👨‍💻・Languages ​​& Tools
 <p>
     &nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&labelColor=yellow&color=yellow&logoColor=white" />
@@ -17,7 +17,7 @@ hey, my name is João Pedro, I'm 15 years old, and I've been getting deeper and 
 </p>
 
 * *** **
-## 📊・Estatísticas do GitHub
-[![percy-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/percy-js)
+## 📊・GitHub Stats
+[![joota-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joota-js)
 <br />
-[![percy-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=percy-js&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/percy-js)
+[![joota-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=joota-js&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joota-js)
