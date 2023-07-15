@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 📜・Sobre mim
-Olá, meu nome é *João Pedro*, tenho 15 anos, e venho me aprofundando cada vez mais no mundo da programação, desejo trabalhar com isso futuramente. Atualmente estou focado em projetos relacionados ao desenvolvimento Web.
+hey, my name is João Pedro, I'm 15 years old, and I've been getting deeper and deeper into the world of programming, I want to work with that in the future. I'm currently focused on projects related to web development
 
 * *
 ## 👨‍💻・Linguagens & Ferramentas
