@@ -1,7 +1,7 @@
 ### João Pedro
 
 ## 📜・About me
-hey, my name is João Pedro, I'm 15 years old, and I've been getting deeper and deeper into the world of programming, I want to work with that in the future. I'm currently focused on projects related to web development
+hey, my name is João Pedro, I'm 16 years old, and I've been getting deeper and deeper into the world of programming, I want to work with that in the future. I'm currently focused on projects related to web development
 
 * *
 ## 👨‍💻・Languages ​​& Tools
